@@ -1,3 +1,4 @@
-module Zazzle
+class Zazzle
   VERSION = "0.0.1"
 end
+
