@@ -7,9 +7,9 @@ Gem::Specification.new do |s|
   s.version     = Zazzle::VERSION
   s.authors     = ["Nicolas Santa"]
   s.email       = ["nicolas55ar@gmail.com"]
-  s.homepage    = ""
-  s.summary     = %q{TODO: Write a gem summary}
-  s.description = %q{TODO: Write a gem description}
+  s.homepage    = "http://github.com/nsanta/zazzle"
+  s.summary     = %q{Zazzle.com API wrapper}
+  s.description = %q{Zazzle.com API wrapper}
 
   s.rubyforge_project = "zazzle"
 
@@ -22,3 +22,4 @@ Gem::Specification.new do |s|
   # s.add_development_dependency "rspec"
   # s.add_runtime_dependency "rest-client"
 end
+
